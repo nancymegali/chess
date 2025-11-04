@@ -1,4 +1,4 @@
-package chess;
+
 
 final class MoveParser {
     // Accepts: "e2 e4", "g7 g8 N", optional trailing " draw?"

@@ -1,4 +1,4 @@
-package chess;
+
 
 final class Square {
     final int file; // 0..7 (a..h)

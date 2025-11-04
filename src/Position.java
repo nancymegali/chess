@@ -1,4 +1,4 @@
-package chess;
+
 
 final class Position {
     Board board;

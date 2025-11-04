@@ -1,4 +1,4 @@
-package chess;
+
 
 enum Color { WHITE, BLACK }
 enum Kind  { KING, QUEEN, ROOK, BISHOP, KNIGHT, PAWN }

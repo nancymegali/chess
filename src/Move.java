@@ -1,4 +1,4 @@
-package chess;
+
 
 final class Move {
     final int fromFile, fromRank;

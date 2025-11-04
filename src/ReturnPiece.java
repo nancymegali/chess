@@ -1,4 +1,4 @@
-package chess;
+
 
 class ReturnPiece {
 	static enum PieceType {WP, WR, WN, WB, WQ, WK, 
